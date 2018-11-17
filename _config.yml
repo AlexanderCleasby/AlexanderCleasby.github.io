@@ -1,11 +1,11 @@
 # Site settings
-author: AlexanderCleasby
-title: 
+author: Alexander Cleasby
+title: AlwaysLearning
 header-img: img/home-bg.png
 email: cleasby.alex@gmail.com
-copyright_name: AlexanderCleasby
+copyright_name: Alexander Cleasby
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Learn something with me
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  AlexanderCleasby
